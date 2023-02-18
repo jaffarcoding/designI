@@ -1,0 +1,549 @@
+.home{
+	display: flex;
+	height: 99vh;
+	width: 21%;
+	position: absolute;
+	top: 1%;
+	left: 5%;
+}
+.images{
+	height: 10rem;
+	width: 10rem;
+	border-radius: 100%;
+	margin-left: 5rem;
+	margin-top: 2rem;
+}
+.username{
+	display: flex;
+	position: absolute;
+	top: 11rem;
+	left: 3.8rem;
+	font-size: 2.1rem;
+}
+.useremail{
+	display: flex;
+	position: absolute;
+	top: 14.3rem;
+	left: 3.9rem;
+}
+.pastN{
+	position: absolute;
+	top: 16rem;
+	left: 5rem;
+	font-size: 1.5rem
+}
+.line{
+	height: 2.5rem;
+	position: absolute;
+	top: 17.5rem;
+	left: 10rem;
+	font-weight: 100;
+}
+.UpcommingN{
+	display: flex;
+	position: absolute;
+	top: 16rem;
+	left: 13.5rem;
+	font-size: 1.5rem
+}
+.past{
+	display: flex;
+	position: absolute;
+	top: 18rem;
+	left: 5rem;
+	font-size: 1.1rem;
+	font-weight: 100;
+}
+.upcomming{
+	display: flex;
+	position: absolute;
+	top: 18rem;
+	left: 11.8rem;
+	font-size: 1.1rem;
+	font-weight: 100;
+}
+.btn{
+	height: 2.5rem;
+	position: absolute;
+	top: 23.8rem;
+	left: 0.5rem;
+	font-size: 1.1rem;
+	width: 97%;
+	background: none;
+	border:  1px solid black;
+	border-radius: 6px;
+}
+.documents{
+	display: flex;
+	position: absolute;
+	top: 28.5rem;
+	left: 0.5rem;
+	font-size: 1.1rem;
+}
+.first{
+	background-color: rgb(242, 241, 241);
+	height: 3.5rem;
+	position: absolute;
+	top: 33rem;
+	width: 97%;
+	left: 0.5rem;
+	font-size: 1.1rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5px;
+}
+.second{
+	background-color: rgb(242, 241, 241);
+	height: 3.5rem;
+	position: absolute;
+	top: 37.2rem;
+	width: 97%;
+	left: 0.5rem;
+	font-size: 1.1rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5px;
+}
+.third{
+	background-color: rgb(242, 241, 241);
+	height: 3.5rem;
+	position: absolute;
+	top: 41.5rem;
+	width: 97%;
+	left: 0.5rem;
+	font-size: 1.1rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5px;
+}
+.fourth{
+	background-color: rgb(242, 241, 241);
+	height: 3.5rem;
+	position: absolute;
+	top: 45.8rem;
+	width: 97%;
+	left: 0.5rem;
+	font-size: 1.1rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5px;
+}
+.home2{
+	display: flex;
+	height: 75vh;
+	width: 73%;
+	position: absolute;
+	top: 1%;
+	left: 27%;
+}
+.gender{
+	position: absolute;
+	top: 3.5rem;
+	left: 2%;
+	font-weight: 100;
+}
+.female{
+	position: relative;
+	top: 5rem;
+	left: 2%;
+}
+.border-line{
+	background-color: black;
+	height: 1px;
+	position: absolute;
+	width: 15%;
+	top: 9rem;
+	left: 1.4rem;
+	font-weight: 100;
+}
+.birth{
+	position: absolute;
+	width: 13%;
+	top: 3.5rem;
+	left: 23%;
+	font-weight: 100;
+}
+.birthdate{
+	position: absolute;
+	width: 13%;
+	top: 5rem;
+	left: 23%;
+}
+.border-line2{
+	background-color: black;
+	height: 1px;
+	position: absolute;
+	width: 15%;
+	top: 9rem;
+	left: 23%;
+	font-weight: 100;
+}
+.Number{
+	position: absolute;
+	width: 13%;
+	top: 3.5rem;
+	left: 44%;
+	font-weight: 100;
+}
+.NumberP{
+	position: absolute;
+	width: 13%;
+	top: 5rem;
+	left: 44%;
+}
+.border-line3{
+	background-color: black;
+	height: 1px;
+	position: absolute;
+	width: 15%;
+	top: 9rem;
+	left: 44%;
+	font-weight: 100;
+}
+.Register{
+	position: absolute;
+	width: 13%;
+	top: 3.5rem;
+	left: 65%;
+	font-weight: 100;
+}
+.RegisterDate{
+	position: absolute;
+	width: 13%;
+	top: 5rem;
+	left: 65%;	
+}
+.border-line4{
+	background-color: black;
+	height: 1px;
+	position: absolute;
+	width: 15%;
+	top: 9rem;
+	left: 65%;
+	font-weight: 100;
+}
+.street{
+	position: absolute;
+	width: 13%;
+	top: 10rem;
+	left: 2%;
+	font-weight: 100;		
+}
+.streetadress{
+	position: absolute;
+	width: 13%;
+	top: 11.5rem;
+	left: 2%;
+}
+.border-line5{
+	background-color: black;
+	height: 1px;
+	position: absolute;
+	width: 15%;
+	top: 15rem;
+	left: 1.4rem;
+	font-weight: 100;
+}
+.city{
+	position: absolute;
+	width: 13%;
+	top: 10rem;
+	left: 23%;
+	font-weight: 100;
+}
+.cityN{
+	position: absolute;
+	width: 13%;
+	top: 11.5rem;
+	left: 23%;	
+}
+.border-line6{
+	background-color: black;
+	height: 1px;
+	position: absolute;
+	width: 15%;
+	top: 15rem;
+	left: 23%;
+	font-weight: 100;
+} 
+.zib{
+	position: absolute;
+	width: 13%;
+	top: 10rem;
+	left: 44%;
+	font-weight: 100;
+}
+.zibN{
+	position: absolute;
+	width: 13%;
+	top: 11.5rem;
+	left: 44%;		
+}
+.border-line7{
+	background-color: black;
+	height: 1px;
+	position: absolute;
+	width: 15%;
+	top: 15rem;
+	left: 44%;
+	font-weight: 100;
+} 
+.member{
+	position: absolute;
+	width: 13%;
+	top: 10rem;
+	left: 65%;
+	font-weight: 100;	
+}
+.memberact{
+	position: absolute;
+	width: 13%;
+	top: 11.5rem;
+	left: 65%;	
+}
+.border-line8{
+	background-color: black;
+	height: 1px;
+	position: absolute;
+	width: 15%;
+	top: 15rem;
+	left: 65%;
+	font-weight: 100;
+} 
+.part1{
+	position: absolute;
+	top: 19rem;
+	left: 2%;
+	display: flex;
+	background-color: rgb(244, 241, 241);
+	height: 3.8rem;
+	width: 60%;
+	border-radius: 5px;
+}
+.part2{
+	display: flex;
+	align-items: center;
+	background-color: white;
+	box-sizing: border-box;
+	height: 2.8rem;
+	width: 38%;
+	margin-top: 0.5rem;
+	margin-left: 0.3rem;
+	padding-left: 3rem;
+	border-radius: 5px;
+	color: blue;
+}
+.part1 > p{
+	padding-left: 5.5rem;
+	font-weight: 300;
+}
+.nextpart{
+	position: relative;
+	top: 25rem;
+	left: -22px;
+	background-color: rgb(242, 241, 241);
+	height: 23rem;
+	width: 80%;
+}
+.heading{
+	margin-left: 1.2rem;
+	margin-top: 1.5rem;
+	font-weight: 300;
+}
+.straight{
+	display: flex;
+	background-color: black;
+	height: 1px;
+	width: 100%;
+	position: relative;
+	top: 0.4rem;
+	left: 1px;
+}
+.btn2{
+	height: 2rem;
+	background-color: white;
+	display: flex;
+	align-items: center;
+	width: 21%;
+	position: absolute;
+	top: 1.6rem;
+	margin-left: 46rem;
+	margin-top: -0.5rem;
+	
+}
+.btn2 > p{
+	padding: 6px;
+	margin-left: 8px;
+	font-weight: 100;
+}
+.nextpart1{
+	height: 6.5rem;
+	width: 95%;
+	background-color: white;
+	margin-left: 1.5rem;
+	position: relative;
+	top: 7%;
+}
+.dates{
+	margin-top: 1.8rem;
+	margin-left: 1.5rem;
+	padding-top: 1.2rem;
+}
+.afterdates{
+	margin: 1.5rem;
+	position: absolute;
+	top: 1.5rem;
+	font-weight: 100;
+}
+.mid{
+	display: flex;
+	flex-direction: column;
+}
+.Ol{
+	height: 2.5rem;
+	position: absolute;
+	top: 1.5rem;
+	left: 11rem;
+	font-weight: 100;
+	font-weight: 100;
+}
+.treat{
+	margin-left: 14.5rem;
+	position: absolute;
+	top: 0.3rem;
+	font-weight: 100;
+}
+.Treat{
+	margin-left: 14.5rem;
+	position: absolute;
+	top: 1.5rem;
+	font-weight: 400;
+}
+.Ol1{
+	height: 2.5rem;
+	position: absolute;
+	top: 1.5rem;
+	left: 25rem;
+	font-weight: 100;
+	font-weight: 100;
+}
+.den{
+	margin-left: 29rem;
+	position: absolute;
+	top: 0.3rem;
+	font-weight: 100;
+}
+.denT{
+	margin-left: 29rem;
+	position: absolute;
+	top: 1.5rem;
+	font-weight: 400;	
+}
+.nurse{
+	margin-left: 39rem;
+	position: absolute;
+	top: 0.3rem;
+	font-weight: 100;
+}
+.nurseT{
+	margin-left: 39rem;
+	position: absolute;
+	top: 1.5rem;
+	font-weight: 400;
+}
+.Note{
+	margin-left: 52.5rem;
+	position: absolute;
+	top: 1.2rem;
+	font-weight: 400;
+	color: blue;
+}
+.nextpart2{
+	height: 6.5rem;
+	width: 95%;
+	background-color: white;
+	margin-left: 1.5rem;
+	position: relative;
+	top: 12%;	
+}
+.dates1{
+	margin-top: 0.3rem;
+	margin-left: 1.5rem;
+	padding-top: 1.2rem;
+}
+.afterdates2{
+	margin: 1.5rem;
+	position: absolute;
+	top: 1.5rem;
+	font-weight: 100;
+}
+.Ol2{
+	height: 2.5rem;
+	position: absolute;
+	top: 1.5rem;
+	left: 11rem;
+	font-weight: 100;
+	font-weight: 100;
+}
+.treat1{
+	margin-left: 14.5rem;
+	position: absolute;
+	top: 0.3rem;
+	font-weight: 100;
+}
+.Treat1{
+	margin-left: 14.5rem;
+	position: absolute;
+	top: 1.5rem;
+	font-weight: 400;
+}
+.Ol3{
+	height: 2.5rem;
+	position: absolute;
+	top: 1.5rem;
+	left: 25rem;
+	font-weight: 100;
+	font-weight: 100;
+}
+.den1{
+	margin-left: 29rem;
+	position: absolute;
+	top: 0.3rem;
+	font-weight: 100;
+}
+.denT1{
+	margin-left: 29rem;
+	position: absolute;
+	top: 1.5rem;
+	font-weight: 400;	
+}
+.nurse1{
+	margin-left: 39rem;
+	position: absolute;
+	top: 0.3rem;
+	font-weight: 100;
+}
+.nurseT1{
+	margin-left: 39rem;
+	position: absolute;
+	top: 1.5rem;
+	font-weight: 400;
+}
+.Note1{
+	margin-left: 52.5rem;
+	position: absolute;
+	top: 1.2rem;
+	font-weight: 400;
+	color: blue;
+}
+.new1{
+	position: relative;
+	top: 8rem;
+	left: 0.9rem;
+	color: black;
+	font-weight: 100;
+}
